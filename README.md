@@ -1,21 +1,22 @@
-Nonlinear Control and Aereospace Applications Project
+# Nonlinear Control and Aereospace Applications Project
 
-This repository contains the project for the Nonlinear Control and Aereospace Applications course at Politecnico di Torino.
+This repository contains the project for the **Nonlinear Control and Aereospace Applications** course at **Politecnico di Torino**.
 
-📂 Repository Structure
+---
 
-The project is structured as follows:
+## 📂 Repository Structure
 
-Report.pdf: Complete report covering the theoretical details, mathematical formulations, and simulation results.
+* `Report.pdf` - Complete report covering the theoretical details, mathematical formulations, and simulation results.
+* `Simulation/` -  Folder containing the MATLAB scripts/functions and Simulink models used for the project simulations.
 
-Simulation/: Folder containing the MATLAB scripts/functions and Simulink models used for the project simulations.
+---
 
-📄 Documentation
+## 📄 Documentation
 
-For all theoretical explanations, algorithm details, and performance analysis, please refer to the main PDF report:
+For all theoretical details, mathematical formulations, and simulation results, please refer to the main PDF report `Report.pdf`
 
-project_report.pdf
+---
 
-💻 Requirements
+## 💻 Requirements
 
-MATLAB & Simulink (R2021a or newer recommended)
+* **MATLAB & Simulink** (R2021a or newer recommended)
